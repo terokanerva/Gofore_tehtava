@@ -26,4 +26,15 @@ Testattavat asiat:
     - Tuotteiden lisäys ostoskoriin onnistuu
 
 - Testataan ostoskorin sisältö
+
     - Ostoskoriin lisätyt tuotteet löytyvät listattuina
+
+ - Ajo-ohjeet:
+   - Kloonaa repo omalle koneellesi
+   - Avaa komentokehoite kansion johon kloonasit repon
+   - Ajetaan komennolla: robot demoblaze_smoke_test.robot
+
+- Asennettuna:
+  - python
+  - robot framwork
+  - selenium library
